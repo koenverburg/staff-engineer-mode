@@ -22,6 +22,11 @@
     "cursor",
     "copilot-cli",
     "gemini-cli",
-    "opencode"
-  ]
+    "opencode",
+    "pi",
+    "pi-package"
+  ],
+  "pi": {
+    "skills": ["./skills"]
+  }
 }
