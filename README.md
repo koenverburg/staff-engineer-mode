@@ -99,6 +99,14 @@ Terminal:
 gemini extensions install https://github.com/sirmarkz/staff-engineer-mode
 ```
 
+### Pi CLI
+
+Terminal:
+
+```bash
+pi install git:github.com/sirmarkz/staff-engineer-mode
+```
+
 ## Try It
 
 Start a fresh session inside any open repo and try one of these prompts:
